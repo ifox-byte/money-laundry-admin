@@ -33,7 +33,7 @@ This is an admin website designed for managing and monitoring operations of Mone
 - <h3>Clone this repository</h3>
 
   ```
-  git clone https://github.com/danielTan8/money-laundry-admin.git
+  git clone https://github.com/ifox-byte/money-laundry-admin.git
   ```
 
 - <h3>Create .env.local File</h3>
